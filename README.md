@@ -30,30 +30,30 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 
 ### Day 1 Goal 3: Navigate the API request to return a gif
 
-- [ ] Navigate through the API request URL to return only the first gif in the array
-  - [ ] HINT: Work your way through the layers one at a time (check your console every time!) to find where the original image URLs are stored
-- [ ] Update your API request so that only the original image URL is logged to the console
+- [x] Navigate through the API request URL to return only the first gif in the array
+  - [x] HINT: Work your way through the layers one at a time (check your console every time!) to find where the original image URLs are stored
+- [x] Update your API request so that only the original image URL is logged to the console
 
 #### Wrap
 
-- [ ] Commit your changes!
+- [x] Commit your changes!
 
 ## Day 2
 
 ### Day 2 Goal 1: Display a gif to the screen
 
-- [ ] Update the fetch request so the original gif URL is appended to the screen in the correct div
-- [ ] Use string interpolation to get the gif image to display on the screen
+- [x] Update the fetch request so the original gif URL is appended to the screen in the correct div
+- [x] Use string interpolation to get the gif image to display on the screen
 
 ### Day 2 Goal 2: Add a click handler so the API request can use inputted data
 
-- [ ] Write a click handler for the "Searc" button and move your fetch request into the body
-- [ ] Declare a variable to save the user's input
-- [ ] Use string interpolation to update the request URL in your fetch request so a gif from the user's search term displays when the button is clicked
+- [x] Write a click handler for the "Searc" button and move your fetch request into the body
+- [x] Declare a variable to save the user's input
+- [x] Use string interpolation to update the request URL in your fetch request so a gif from the user's search term displays when the button is clicked
 
 ### Wrap
 
-- [ ] Commit your changes!
+- [x] Commit your changes!
 
 ## Day 3
 
